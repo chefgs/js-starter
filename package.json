@@ -1,5 +1,5 @@
 {
-  "name": "js-starter",
+  "name": "gs-js-starter",
   "version": "0.1.0",
   "description": "A sample javascript starter for MongoDB.",
   "main": "index.js",
